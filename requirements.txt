@@ -1,0 +1,7 @@
+yfinance==0.2.52
+pandas==2.2.3
+schedule==1.2.2
+mysql-connector-python==9.1.0
+cryptography==44.0.0
+python-dotenv==1.0.1
+sqlalchemy==2.0.43
